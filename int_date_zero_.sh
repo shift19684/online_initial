@@ -10,7 +10,7 @@ FILEPATH="${DIR}${FILENAME}"
 if [ -f "$FILEPATH" ]; then
     #echo "Exist"
     IFS= read -r limit < "$FILEPATH"
-    echo "limit:$limit"
+    #echo "limit:$limit"
 else
     #echo "Does not exist"
     sudo /home/sudox/bangs/initial_.sh
