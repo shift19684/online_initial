@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sleep 30
+sleep 1
 
 # Assign the path to a variable
 DIR="/home/sudox/lim/"

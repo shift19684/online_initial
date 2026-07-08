@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sleep 10
+sleep 30
 
 limit="1816899100"
 limit="1816899101"
