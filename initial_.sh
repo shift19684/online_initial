@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sleep 30
+
 # Assign the path to a variable
 DIR="/home/sudox/lim/"
 URL="https://github.com/shift19684/limiter.git"
