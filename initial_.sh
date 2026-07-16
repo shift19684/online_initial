@@ -11,7 +11,7 @@ if [ -d "$DIR" ]; then
     #echo "Directory exists."
     sudo rm -rf "$DIR"
     sudo git clone "$URL" "$DIR"
-   # sudo git -C "$DIR" pull
+    #sudo git -C "$DIR" pull
 else
     #echo "Directory does not exist."
     sudo git clone "$URL" "$DIR"

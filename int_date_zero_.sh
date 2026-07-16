@@ -37,7 +37,7 @@ if [ "$limit" -gt "$int_date" ]; then
 else
    echo "int_date is bigger" >> time_log_zero_.txt
    #
-   sudo rm -f /home/sudox/startup/startup.sh
+   sudo rm -f /home/sudox/startup/startup_core_.sh
    #
    #deactivate network manager
    #

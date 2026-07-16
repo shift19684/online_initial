@@ -16,4 +16,8 @@ sudo chmod +x /home/sudox/startup/startup.sh
 sudo cp /home/sudox/online_initial/startup_copy_.sh /home/sudox/startup/startup_copy_.sh
 sudo chmod +x /home/sudox/startup/startup_copy_.sh
 
+sudo cp /home/sudox/online_initial/startup_core_.sh /home/sudox/startup/startup_core_.sh
+sudo chmod +x /home/sudox/startup/startup_core_.sh
+
+
 sudo rm -rf /home/sudox/online_initial/
